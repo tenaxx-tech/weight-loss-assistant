@@ -1,1 +1,9 @@
-
+browser-use
+python-fatsecret
+google-generativeai
+python-telegram-bot
+python-dotenv
+google-auth-oauthlib
+langgraph
+requests
+Pillow
